@@ -107,11 +107,11 @@
 .notif-text > p {
     font-weight: 500;
     line-height: 22px;
-    color: var(--pcolor);
+    color:#1f2224;
 }
 
 .notif-text > p > a {
-    color: blue;
+    text-decoration: none;
 }
 
 .notif-button button {
